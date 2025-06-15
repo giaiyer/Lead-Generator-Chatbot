@@ -26,6 +26,7 @@ The application features:
     * **Real-time Updates:** "Refresh Data" button to update the dashboard with the latest lead information.
       
 ### Prerequisites
+
 * Install Ollama Models
 
 The FAQ chatbot relies on a local LLM provided by Ollama. Before running the application, you need to pull the specific model used in the script. This project is configured to use llama3.2.
