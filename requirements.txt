@@ -1,0 +1,8 @@
+gradio
+pandas
+transformers
+matplotlib
+langchain
+langchain-community
+chromadb
+sentence-transformers
