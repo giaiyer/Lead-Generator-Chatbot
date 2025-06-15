@@ -25,7 +25,7 @@ The application features:
         * **Top Product Interests:** A bar chart illustrating the most popular product categories among leads.
     * **Real-time Updates:** "Refresh Data" button to update the dashboard with the latest lead information.
       
-### Prerequisites
+## Prerequisites
 
 * Install Ollama Models
 
