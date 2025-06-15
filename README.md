@@ -29,5 +29,5 @@ The application features:
 
 * Install Ollama Models
 
-The FAQ chatbot relies on a local LLM provided by Ollama. Before running the application, you need to pull the specific model used in the script. This project is configured to use llama3.2.
+   The FAQ chatbot relies on a local LLM provided by Ollama. Before running the application, you need to pull the specific model used in the    script. This project is configured to use llama3.2.
 
