@@ -1,4 +1,4 @@
-# Lead Generator Chatbot
+# Lead Qualification Chatbot
 
 The application features:
 * **Automated Lead Qualification:** Intelligently collects and processes customer information to assign lead scores and segments.
